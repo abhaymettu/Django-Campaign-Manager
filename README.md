@@ -15,7 +15,7 @@ This is a campaign management system developed using Django. It allows you to se
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/campaign-management.git
+git clone https://github.com/abhaymettu/campaign-management.git
 ```
 
 2. Create a virtual environment:
